@@ -31,22 +31,22 @@
     "LICENSE"
   ],
   "devDependencies": {
-    "grunt": "~0.4.x",
-    "expect.js": "~0.2.0",
-    "grunt-contrib-jshint": "~0.7.2",
-    "grunt-release": "~0.6.0",
-    "mocha": "~1.15.1",
-    "grunt-mocha-test": "~0.8.1",
-    "rewire": "~2.0.0",
-    "wrench": "~1.5.4",
-    "sinon": "~1.7.3",
-    "underscore": "~1.5.2",
-    "temp": "~0.8.1"
+    "expect.js": "0.3.1",
+    "grunt": "1.3.0",
+    "grunt-contrib-jshint": "2.1.0",
+    "grunt-mocha-test": "0.13.3",
+    "grunt-release": "0.14.0",
+    "mocha": "8.1.1",
+    "rewire": "5.0.0",
+    "sinon": "9.0.3",
+    "temp": "0.9.1",
+    "underscore": "1.10.2",
+    "wrench": "~1.5.4"
   },
   "peerDependencies": {
-    "grunt": "0.4.x"
+    "grunt": "1.3.x"
   },
   "dependencies": {
-    "glob": "~4.0.3"
+    "glob": "7.1.6"
   }
 }
